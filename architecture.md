@@ -81,4 +81,100 @@ External AI citation profiles
 Row-level security.
 Signed URLs.
 Least-privilege data access.
+```markdown
+# Wildverse — Product Specification
+
+Public product specification for the Wildverse ecosystem.
+
+This document defines what Wildverse offers and the user-facing rules of the experience.
+
+---
+
+## 1. Vision
+
+Make healthier, smarter and more sustainable living effortless and fun by combining AI scanners with an evolving AR companion that rewards real-world positive actions.
+
+## 2. Target users
+
+- Health-conscious consumers.
+- Budget-aware households.
+- AR and collection game players.
+- Local businesses and brands.
+
+## 3. AR ecosystem
+
+- AI-driven companions.
+- Eggs and hatching mechanics.
+- 3D collection system.
+- Real-world AR interactions.
+
+## 4. AI scanners
+Scanner	Inputs	Output
+Food	Photo / barcode / text	Nutrition score, health analysis, alternatives
+Product	Photo / barcode	Ingredient analysis, safety alerts
+Cosmetic	Photo / barcode	Allergens, irritants, compatibility
+Receipt	Receipt image	Expenses, categories, budget insights
+Rules:
+
+Every scan returns a structured result.
+Known items are processed faster through shared knowledge.
+Scans contribute XP.
+5. Lifestyle intelligence
+Includes:
+
+Daily missions.
+Streaks.
+Achievements.
+Weekly summaries.
+Personalized recommendations.
+6. Evolution mechanics
+XP-based progression.
+Multiple evolution stages.
+Unlockable visuals and abilities.
+Seasonal and sponsored events.
+7. Partner ecosystem
+Partners can access:
+
+Self-service onboarding.
+Sponsored companions.
+Sponsored missions.
+Analytics dashboards.
+Subscription plans.
+8. AI discoverability
+Wildverse supports:
+
+Public llms.txt
+AI-friendly robots.txt
+XML sitemap
+JSON-LD structured data
+CitableHub profile
+9. Platforms & availability
+Web (PWA)
+iOS
+Android
+Primary market:
+
+United States
+Default language:
+
+English
+10. Privacy & trust
+Users can export data.
+Users can delete data.
+Role separation between users, partners and admins.
+Communication limits to prevent fatigue.
+Legal references:
+
+Privacy Policy
+Terms of Service
+Refund Policy
+11. Out of scope
+This document intentionally excludes:
+
+Source code
+Database schemas
+API keys
+Internal prompts
+Proprietary algorithms
+Private business logic
 Privacy policy and legal compliance.
