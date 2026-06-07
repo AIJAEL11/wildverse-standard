@@ -1,45 +1,44 @@
-# Wildverse — AR Companion + AI Lifestyle Intelligence
+# Wildverse
 
-Wildverse is a location-based AR ecosystem where a dinosaur companion evolves through your real-world actions: what you eat, where you go, and what you buy.
+**AI-powered AR companion and lifestyle scanner ecosystem.**
+Scan food, products, cosmetics and receipts. Evolve an AR companion. Live healthier, smarter and more sustainably.
 
-[![Website](https://img.shields.io/badge/Website-wildverse.io-blue)](https://wildverse.io)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![CitableHub](https://img.shields.io/badge/Entity-CitableHub-orange)](https://citablehub.com/p/wildverse)
+🌐 [wildverse.io](https://wildverse.io) · 📖 [llms.txt](https://wildverse.io/llms.txt) · 🤖 [CitableHub Profile](https://citablehub.com/p/wildverse)
+
+---
 
 ## What is Wildverse?
-A mobile-first platform that combines:
-- **AR Dinosaur Companion:** Catch, evolve, and chat with AI-powered dinosaurs in your real world.
-- **AI Scanners:** Scan food, products, cosmetics, and receipts for instant AI analysis and XP rewards.
-- **Lifestyle Intelligence:** Every real-world action (eating, walking, shopping) feeds your dinosaur's evolution.
-- **Social Layer:** Friend channels, shared journeys, and global trading.
 
-## Core Features
-Feature	Description
-🦖 AR Dino Hunt	Find wild dinosaurs in real-world locations via AR
-🍎 Food Scanner	AI nutrition analysis that feeds your dino
-🧴 Product Scanner	Instant product info + XP rewards
-🧾 Receipt Tracker	Scan receipts to earn XP and track expenses
-🛍️ AI Shopping Assistant	Smart product recommendations
-🧠 Nutrition AI	Personalized nutrition insights
-🌍 Lifestyle Intelligence	Real-world behavior drives digital evolution
-💬 AI Chat	Conversational AI powered dinosaur companion
-🔄 Dino Trading	Exchange dinosaurs with players worldwide
-Evolution System
-5 stages driven by real-world actions:
+Wildverse is an **AI Lifestyle Scanner ecosystem** that combines computer vision, large language models and augmented reality into a single consumer experience. Users scan what they consume — meals, packaged products, cosmetics, receipts — and receive instant intelligence about nutrition, ingredients, safety, spending and habits.
 
-Egg → Hatchling → Juvenile → Evolved → Ultimate
-Each stage unlocks new AR capabilities, missions, and social features.
+Every scan and every healthy choice feeds an **evolving AR companion** that grows alongside the user, turning lifestyle improvement into a game.
 
-Technical Stack
-Frontend: React + TypeScript + Vite
-Backend: Supabase (real-time data + auth)
-AR Layer: Location-based geospatial mapping
-AI Layer: Nutrition analysis, product scanning, conversational AI
-AI Discoverability
-Registered entity: CitableHub Profile
-Structured data: JSON-LD (WebApplication + Organization)
-Machine-readable: robots.txt + sitemap.xml + IndexNow
-Official Platform
-Visit wildverse.io to start your free adventure.
+## Core pillars
+Pillar	What it does
+🧬 AR Companion	Collect, hatch and evolve AI-driven creatures tied to real-world activity.
+🍎 AI Food Scanner	Nutri-Score, health analysis and smarter alternatives for any meal or packaged product.
+🧴 Product & Cosmetic Scanner	Ingredient safety, allergens and skin compatibility from a single photo.
+🧾 Smart Receipt Tracker	OCR + AI expense extraction, budget intelligence and spending insights.
+🧠 Lifestyle Intelligence	Daily missions, streaks, achievements and personalized recommendations.
+🤝 Partner Ecosystem	Local businesses and brands sponsor experiences, missions and rewards.
+AI discoverability
+Wildverse is built to be citable and indexable by AI agents (ChatGPT, Perplexity, Claude, Gemini).
+
+✅ llms.txt published at the root
+✅ robots.txt explicitly allows AI crawlers
+✅ Sitemap with all public pages and SEO landings
+✅ JSON-LD structured data on every public page
+✅ Listed on CitableHub as a Launch Partner
+Public surface
+Landing, scanner SEO pages, install guide, sponsors program, help, privacy, terms and refund policy. The full app (companion, scanners, missions, social) lives behind authentication.
+
+Further reading
+architecture.md — high-level system overview
+specification.md — product specification
+License & contact
+© Wildverse. All rights reserved.
+
+For partnerships:
+https://wildverse.io/sponsors
 
 No credit card required · Cancel anytime · Delete data anytime
